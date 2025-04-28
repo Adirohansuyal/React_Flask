@@ -1,4 +1,4 @@
-flask
-scikit-learn
+Flask
 flask-cors
+scikit-learn
 gunicorn
